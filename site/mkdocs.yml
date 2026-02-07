@@ -1,7 +1,11 @@
-site_name: Личный сайт
+site_name: Сайт визитка
+
+site_url: https://slw0000.github.io/demoPython702/
+
+nav:
+    - Home: index.md
+    - About: about.md
+
 theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
+    name: moonstone
+    suppress_nextprev: True
