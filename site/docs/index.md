@@ -1,5 +1,9 @@
 # Welcome to MkDocs
 
+## Гуд морнинг <3
+ 
+Поменял тему на альтернативную
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
