@@ -1,0 +1,84 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+._*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# MkDocs cache
+.cache/
+.mkdocs/
+
+# Python version management
+.python-version
+.pyenv-version
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Backup files
+*.bak
+*.backup
+backup/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Documentation tools
+docs/_build/
+doc/_build/
